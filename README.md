@@ -1,7 +1,7 @@
 # TraversyMedia-React-course
 [React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
 
-Timestamps:
+⭐️Timestamps⭐️
 
 0:00 - Intro
 
