@@ -7,6 +7,9 @@ npm create vite@latest react-crash
 cd ract-crash
 npm install
 npm run dev
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
 
 ## [React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
