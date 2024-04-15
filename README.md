@@ -1,5 +1,15 @@
 # TraversyMedia-React-course
-[React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
+
+## Install Env
+
+```shell
+npm create vite@latest react-crash
+cd ract-crash
+npm install
+npm run dev
+```
+
+## [React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
 
 ⭐️Timestamps⭐️
 
@@ -19,7 +29,7 @@
 
 12:42 - SPA, SSR, SSG (Slide)
 
-15:38  - Vite (Slide)
+15:38 - Vite (Slide)
 
 16:30 - Project Demo
 
@@ -33,7 +43,7 @@
 
 30:24 - JSX Crash Course
 
-39:37 - Start Homepage 
+39:37 - Start Homepage
 
 42:00 - Navbar Component
 
