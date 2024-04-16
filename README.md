@@ -10,8 +10,14 @@ npm run dev
 
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
 npm install react-icons
+
 npm install react-router-dom
+npm install json-server
+npm run server
+
+npm install react-spinners
 ```
 
 ## [React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
