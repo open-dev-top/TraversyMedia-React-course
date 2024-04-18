@@ -20,6 +20,9 @@ npm run server
 npm install react-spinners
 
 npm install react-toastify
+
+npm run build
+npm run preview
 ```
 
 ## [React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
