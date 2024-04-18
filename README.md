@@ -18,6 +18,8 @@ npm install json-server
 npm run server
 
 npm install react-spinners
+
+npm install react-toastify
 ```
 
 ## [React Crash Course 2024](https://youtu.be/LDB4uaJ87e0?si=NdbSBcMycsPAAQ3Z)
